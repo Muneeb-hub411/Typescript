@@ -13,3 +13,23 @@ export {}
 //     return (name + email)
 // }
 // This syntaxx is used for bydefault value
+
+
+// let login =(username:string , password:string):string=>{
+// return "login successfully"
+
+// }
+
+// it used when function is returning string
+
+
+// let login =(name:string):void=>{
+
+//     console.log(name)
+// }
+
+// let handleerror=(err:string):never=>{
+//  throw new Error(err)
+// }
+
+// never is used for throwing errors
